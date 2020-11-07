@@ -1,1 +1,3 @@
-# fb-cloning
+cd 
+ls
+Pyton2 
