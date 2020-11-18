@@ -55,17 +55,17 @@ logo = """
 \033[0;33m|| |  `-.____,-'
 \033[0;33m|| /  /
 \033[0;33m|/ |  |                 A M  HACKER AFG ✔
-\033[0;33m`..     /   \      CREATE AND DESIGN BY = MOHAMMAD SULTANI✔
-\033[0;33m\\   /    |           TELEGRAM   T.ME/sultani1122✔ 
+\033[0;33m`..     /   \      CREATE AND DESIGN BY = Shamim Reza✔
+\033[0;33m\\   /    |           TELEGRAM   shamim✔ 
 \033[0;33m||  |      \
 \033[0;33m\\ /-.|
 \033[0;33m||/  /_   |
 \033[0;33m\(_____)-'_)
 
 \033[0;31m╭════════════════════════════════════════════ 💀
-☛☛\033[0;38m Author = \033[0;96m mohammad sultani
-☛☛\033[0;38m Youtube  =\033[0;96m mohammad hacker
-☛☛\033[0;38m telegram =\033[0;96m t.me/mohammad_hacker_1122
+☛☛\033[0;38m Author = \033[0;96m shamim reza
+☛☛\033[0;38m Youtube  =\033[0;96m shamim haker
+☛☛\033[0;38m telegram =\033[0;96m t.me/shamim
 \033[0;31m╰════════════════════════════════════════════ 💀"""
 
 def tik():
@@ -130,8 +130,8 @@ jalan('\033[0;92m⎝🔴⎞ \033[0;96m  ‼️ mohammad sultani ‼️   \033[0;
 
 print  """\033[0;98m#════════════════════════════════════════#  """
 
-CorrectUsername = "mohammad"
-CorrectPassword = "hacker"
+CorrectUsername = "shamim"
+CorrectPassword = "shamim"
 
 loop = 'true'
 while (loop == 'true'):
